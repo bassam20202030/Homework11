@@ -25,6 +25,7 @@ library(ggrepel)
 ##Exercises
 
 `1. 52519
+    the number of varibales ( 7 )
 
 (4 points)
 ```{r}
